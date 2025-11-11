@@ -6,4 +6,4 @@ Repositorio de práctica en Bash. Aquí guardaré scripts que he creado mientras
 
 | Script | Descripción | Fecha |
 |--------|-------------|-------|
-| `htbmachines.sh` | Busca máquinas de HTB localmente usando [htbmachines.github.io](https://htbmachines.github.io). | En proceso |
+| `htbmachines.sh` | Busca máquinas de HTB localmente usando [htbmachines.github.io](https://htbmachines.github.io). | 11/11/2025 |
